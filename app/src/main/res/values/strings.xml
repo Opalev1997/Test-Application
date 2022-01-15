@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test Application</string>
+    <string name="second_change_text_from_last_unchanged_state">Second change text from last unchanged state!</string>
 </resources>
